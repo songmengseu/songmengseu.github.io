@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Meng Song / Personal Website"
+title                    : "宋 梦 / Meng Song"
 title_separator          : "-"
 name                     : &name "Song Meng"
 description              : &description "personal description"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://songmengseu.github.io/"
   google_plus      :
   keybase          :
   instagram        :
